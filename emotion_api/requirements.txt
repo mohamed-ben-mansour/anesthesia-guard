@@ -1,0 +1,47 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+#pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121 --force-reinstall
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic-settings
+pydantic
+
+# ML Core
+torch>=2.0.0
+numpy<2
+
+# ONNX Runtime (choose one based on your hardware)
+# onnxruntime
+# onnxruntime-gpu==1.17.0  # Uncomment for GPU support
+
+# Model Optimization
+onnx
+onnxruntime-gpu 
+# Transformers & Audio
+transformers
+librosa
+soundfile
+
+# Video Processing
+opencv-python-headless
+mediapipe==0.10.13
+pillow>=10.20.0
+
+# Utilities
+python-jose[cryptography]
+aiofiles
+###new
+decord 
+face-alignment
+#if it fails run this in ur venv
+'''(venv) PS C:\Users\ASUS\Desktop\emotion_api> # 1. Fix numpy version (CRITICAL - numba requires numpy<2)
+>> pip uninstall numpy -y
+>> pip install "numpy>=1.24.0,<2.0.0"
+>> 
+>> # 2. Fix ONNX Runtime (install GPU version)
+>> pip uninstall onnxruntime -y
+>> pip install onnxruntime-gpu
+>>
+>> # 3. Install missing face-alignment
+>> pip install face-alignment --no-deps'''
