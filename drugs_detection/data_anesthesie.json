@@ -1,0 +1,243 @@
+[
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Metformine",
+    "instruction": "Pas de prise la veille au soir et le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Sulfamides",
+    "instruction": "Pas de prise le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Glinides",
+    "instruction": "Pas de prise le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Inhibiteurs α-glucosidases",
+    "instruction": "Pas de prise le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Inhibiteurs DDP-4",
+    "instruction": "Pas de prise le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Analogues GLP-1",
+    "instruction": "Pas d’injection le matin",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Insulines SC",
+    "instruction": "Pas d’injection le matin (sauf dans le D1)",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Antidiabétiques (Chirurgie mineure ou majeure)",
+    "medication": "Pompe à insuline",
+    "instruction": "Arrêt de la pompe à l’arrivée au bloc",
+    "precautions": "N/A"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Beta-bloquants",
+    "risk_if_stopped": "Risque de sevrage (effet rebond) (tachycardie, Hypotension Arterielle , arythmies)",
+    "risk_if_continued": "0 si chronique. Bradycardie hypotension si intro préop",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Cible de fréquence cardiaque entre 60 et 70 bpm, sans hypotension artérielle. Voie IV si Par voie Orale impossible en postopératoire"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Inhibiteurs calciques",
+    "risk_if_stopped": "Effet rebond hypertensif",
+    "risk_if_continued": "Peu d'effets hypotenseurs",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Arrêt si hypotension artérielle. Voie IV si Par voie orale impossible"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Dérivés nitrés",
+    "risk_if_stopped": "Littérature insuffisante",
+    "risk_if_continued": "Hypotension",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Reprise précoce (risque d'événements coronariens lors du sevrage brutal). Voie transdermique si orale impossible"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Inhibiteurs de l'enzyme de conversion et antagonistes des récepteurs à l'angiotensine II",
+    "risk_if_stopped": "Littérature contradictoire",
+    "risk_if_continued": "Hypotension",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Non si Hypotension arterielle / Oui si insuffisance cardiaque",
+    "precautions": "Interrompre >12 h si traitement Hypertension Arterielle. Maintien en cas de traitement de fond de l'IC et prise en compte du risque d'hypotension artérielle. Reprise dès que état hémodynamique satisfaisant et absence de dysfonction rénale évolutive"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Diurétiques",
+    "risk_if_stopped": "Troubles électrolytiques et volémiques induits (vérifier les vitamines  K+, Na+, Mg2+ en préopératoire)",
+    "risk_if_continued": "Liés aux troubles hydroélectrolytiques",
+    "interference": "Liés aux troubles hydroélectrolytiques",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Non",
+    "precautions": "Reprise en postopératoire immédiat, sous contrôle régulier de la Pression arterielle, Frequence Cardiaque, diurèse quotidienne, état d'hydratation, balance hydroélectrolytique"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Antiarythmiques de classe I (disopyramide, flécaïnide)",
+    "risk_if_stopped": "Récidive du trouble rythmique",
+    "risk_if_continued": "Inotrope négatif, troubles de conduction, torsade de pointe",
+    "interference": "Potentialisation par AL, halogénés, quinine, propofol",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Non",
+    "decision_J_0_morning": "Non",
+    "precautions": "Arrêt 24 h. Relai IV inutile si PO impossible. Surveillance 24 h (ECG, biologique) si pas d'arrêt"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Antiarythmiques classe III (amiodarone, sotalol)",
+    "risk_if_stopped": "Récidive du trouble rythmique",
+    "risk_if_continued": "Hypotension artérielle, bradycardie, torsade de pointe",
+    "interference": "Effets additifs avec halogénés propofol",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Amiodarone : reprise Par voie Orale différée si pas de transit (pas de dose de charge à la reprise). Sotalol : idem β-bloquant (voie IV si Par voie orale impossible)"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Digitaliques",
+    "risk_if_stopped": "Récidive du trouble rythmique",
+    "risk_if_continued": "Arythmies, troubles de conduction",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Recherche et correction d'une dyskaliémie. Reprise non urgente (risque sevrage faible, demi-vie longue)"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Nicorandil",
+    "risk_if_stopped": "Ischémie myocardique",
+    "risk_if_continued": "Hypotension artérielle",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Surveillance volémie et pression artérielle péri opératoire"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Statines",
+    "risk_if_stopped": "Effet rebond complications coronaires postopératoires",
+    "risk_if_continued": "Risque théorique de rhabdomyolyse",
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": "Risque effet rebond si arrêt. Si arrêt du transit : administration par Sonde Naso Gastrique"
+  },
+  {
+    "category": "Cardiovasculaire",
+    "medication": "Fibrates",
+    "risk_if_stopped": null,
+    "risk_if_continued": null,
+    "interference": "0",
+    "decision_J_minus_2": "Oui",
+    "decision_J_minus_1": "Oui",
+    "decision_J_0_morning": "Oui",
+    "precautions": null
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Aspirine",
+    "instruction_arret": "À poursuivre en cas de prévention secondaire et suspendre en cas de prévention primaire. Arrêt J-3 dans de rares cas (risque hémorragique élevé).",
+    "precautions": "Pas de substitution. Arrêt J-5 si neurochirurgie intracrânienne."
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Clopidogrel",
+    "instruction_arret": "Dernière prise à J-5.",
+    "precautions": "2 jours supplémentaires d’arrêt si neurochirurgie intracrânienne. Possibilité de faire un relais par aspirine si risque thrombotique élevé. En cas d'événement cardiaque récent dattant de moins de 6 mois , Consultez votre cardiologue + anesthesiste. "
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Ticagrélor",
+    "instruction_arret": "Dernière prise à J-5.",
+    "precautions": "Pas de geste invasif avec le prasugrel et le ticagrélor. Risque de pauses cardiaques avec le ticagrélor."
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Prasugrel",
+    "instruction_arret": "Dernière prise à J-7.",
+    "precautions": "Pas de geste invasif avec le prasugrel et le ticagrélor."
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Antivitamine K (AVK)",
+    "instruction_arret": "Dernière prise à J-5.",
+    "precautions": "Contrôle international normalised ratio."
+  },
+  {
+    "category": "Antithrombotiques",
+    "medication": "Anticoagulants oraux directs (AOD)",
+    "instruction_arret": "Dernière prise à J-5, J-4 ou J-3 en fonction AOD.",
+    "precautions": "Arrêt J-5 si neurochirurgie intracrânienne (si DFG > 50 ml/min). Pas de relais, pas de dosage."
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA I",
+    "description": "Personne normale en bonne santé",
+    "exemples": "Bonne santé, non fumeur, pas ou consommation minimale d’alcool"
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA II",
+    "description": "Patient atteint d’une affection organique peu sévère, bien contrôlée sous traitement, sans atteinte des organes cibles.",
+    "exemples": "HTA traitée, obésité (30 < BMI < 40), consommation alcool social, tabagisme, grossesse, HTA ou diabète bien contrôlé."
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA III",
+    "description": "Patient atteint d’une maladie organique sévère sans menace vitale à court terme, avec limitation fonctionnelle.",
+    "exemples": "HTA ou diabète mal contrôlé, obésité morbide (BMI>40), insuffisance rénale chronique avec dialyse, BPCO avec exacerbations intermitentes, angine stable, stent coronarien, pacemaker implanté, FE modérée, IMA > 3 mois, hépatite active."
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA IV",
+    "description": "Patient atteint d’une maladie organique invalidante mettant constamment sa vie en danger.",
+    "exemples": "Angine instable, BronchoPneumopathie Chronique Obstructive décompensé, infarctus myocarde ou AVC récent < 3 mois, FE sévèrement abaissée"
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA V",
+    "description": "Patient moribond, dont l’espérance de vie est inférieure à 24h sans intervention chirurgicale.",
+    "exemples": "Anévrysme aortique rompu, trauma majeur, hémorragie intracrânienne avec engagement, sepsis avec MOF"
+  },
+  {
+    "category": "Classification ASA",
+    "score": "ASA VI",
+    "description": "Patient en état de mort cérébrale donneur d’organe.",
+    "exemples": "N/A"
+  }
+]
