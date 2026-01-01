@@ -1,0 +1,415 @@
+﻿drug_name;generic_name;category;sub_category;typical_posology
+Ator;Atorvastatine;Cardiovasculaire;Statine;10mg       
+Tavastor;Atorvastatine;Cardiovasculaire;Statine;10mg
+Statinor;Atorvastatine;Cardiovasculaire;Statine ;10mg 
+Rosuvastatine;Rosuvastatine;Cardiovasculaire;Statine;10mg
+Hypoten;Atenolol;Cardiovasculaire;beta-bloquant;100mg 
+Nebilet ;Nebivolol;Cardiovasculaire;beta-bloquant;5mg
+Carvidol;Carvedilol;Cardiovasculaire;beta-bloquant;25mg 
+Cebutol;Acebutolol;Cardiovasculaire;beta-bloquant;400mg 
+Sectral;Acebutolol;Cardiovasculaire;beta-bloquant;200mg 
+Evocor 5;Bisoprolol;Cardiovasculaire;beta-bloquant ;5mg 
+Evocor 2.5;Bisoprolol;Cardiovasculaire;beta-bloquant;5mg
+Keval;betaxolol;Cardiovasculaire;beta-bloquant;20mg 
+Atenor;Atenolol;Cardiovasculaire;beta-bloquant;100mg 
+Cebutral;Acebutolol;Cardiovasculaire;beta-bloquant;400mg 
+Kerlone;Betaxolol;Cardiovasculaire;beta-bloquant;20mg
+Tensiol;Acebutolol;Cardiovasculaire;beta-bloquant;200mg 
+Bonacor;Bisoprolol;Cardiovasculaire;beta-bloquant;2,5mg 
+Normocardil;Propranolol;Cardiovasculaire;beta-bloquant;40mg 
+Tenordate;Atenolol;Cardiovasculaire;beta-bloquant;1 gelule par jour 
+Ketaxol;Betaxolol;Cardiovasculaire;beta-bloquant;20mg 
+Karvex;Carvedilol;Cardiovasculaire;beta-bloquant;25mg 
+Simvastatine zentiva;Simvastatine;Cardiovasculaire;Statine;20mg
+Pravastatine;Pravastatine;Cardiovasculaire;Statine;10-40 mg once daily
+Fluvastatine;Fluvastatine;Cardiovasculaire;Statine;20-80 mg once daily
+Ramipril;Ramipril;Cardiovasculaire;IEC;2.5-10 mg once daily
+Rapril;Ramipril;Cardiovasculaire;IEC;10mg 
+Angiotec;Enalapril;Cardiovasculaire;IEC;20mg
+Tensopril;Captopril;Cardiovasculaire;IEC;25mg 
+Clorotiazide;Tiazide;Cardiovasculaire;Diurétique;500mg 
+Plagrel;Clopidogrel;Cardiovasculaire;Antiagrégant ;75mg
+Hytacand;Tiazide ;Cardiovasculaire;Diurétique;
+Fludex ;Indapamide;Cardiovasculaire;Diurétique ;1,5mg
+Burinex;bumétanide ;Cardiovasculaire;Diurétique;2mg
+Lasicare ;Furosemide;Cardiovasculaire;Diurétique;40mg
+Aldactone;Spironolactone;Cardiovasculaire;Diurétique;50mg
+Lasilix;Furosemide;Cardiovasculaire;Diurétique;40mg
+Aprofort;Irbesartan;Cardiovasculaire;ARA2;5mg 
+Irbesar;Irbesartan;Cardiovasculaire;ARA2;150mg 
+Aprovasc ;Irbesartan;Cardiovasculaire;ARA2;150mg
+Aradeux Plus 150/5;Irbesartan;Cardiovasculaire;ARA2;150mg 
+Aralead;Candesartan;Cardiovasculaire;ARA2;16mg
+Aprozar;Irbesartan;Cardiovasculaire;ARA2;150mg 
+Medzar;Losartan;Cardiovasculaire;ARA2;50 mg 
+Cordarone;Amiodarone;Cardiovasculaire;Antiaythmique;150mg 
+Digoxine Nativelle ;Digoxine;Cardiovasculaire;Digitalique;0,250mg
+Flecaine ;Flecanide ;Cardiovasculaire;Antiarythmique ;100mg 
+Sotalol Mylan ;Sotalol ;Cardiovasculaire;Antiarythmique ;160mg 
+Lercan ;Lercandipine;Cardiovasculaire;Inhibiteur calcique;20mg 
+Loxen ;Nicardipine;Cardiovasculaire;Inhibiteur calcique;20mg 
+Mono-Tilidiem;Dilitiazem;Cardiovasculaire;Inhibiteur calcique;200mg 
+Isoptine LP;Verapamil;Cardiovasculaire;Inhibiteur calcique;240mg 
+Amlodis;Amlodipine;Cardiovasculaire;Inhibiteur calcique;10mg 
+Zanidip;Lercandipine;Cardiovasculaire;Inhibiteur calcique;10mg 
+Bi-Tilidem;Dilitiazem;Cardiovasculaire;Inhibiteur calcique;90mg 
+Amlor ;Amlodipine;Cardiovasculaire;Inhibiteur calcique;5mg 
+Aspirine;Acide acétylsalicylique;Antithrombotique;Antiagrégant;75-300 mg once daily
+Clopidogrel;Clopidogrel;Antithrombotique;Antiagrégant;75 mg once daily (loading 300 mg)
+Ticagrélor;Ticagrélor;Antithrombotique;Antiagrégant;90 mg twice daily (loading 180 mg)
+Gripex;ACIDE ASCORBIQUE;ANTI-INFECTIEUX;Anti-Infectieux;
+Doliprane;Paracétamol;Antalgique;Antalgique;1000mg 
+Maxilase;Alpha-Amylase;Anti-Inflammatoire;Antu-Inflammatoire ;3000U
+Prasugrel;Prasugrel;Antithrombotique;Antiagrégant;10 mg once daily (loading 60 mg)
+Warfarine;Warfarine;Antithrombotique;AVK;Dose individualisée (INR)
+Acénocoumarol;Acénocoumarol;Antithrombotique;AVK;Dose individualisée (INR)
+Apixaban;Apixaban;Antithrombotique;AOD;5 mg twice daily (2.5 mg bid in dose reduction)
+Rivaroxaban;Rivaroxaban;Antithrombotique;AOD;20 mg once daily with evening meal
+Dabigatran;Dabigatran;Antithrombotique;AOD;150 mg twice daily
+Edoxaban;Edoxaban;Antithrombotique;AOD;60 mg once daily
+Metformine;Metformine;Antidiabétique;Biguanide;500-2000 mg/day in divided doses
+Gliclazide;Gliclazide;Antidiabétique;Sulfamide;40-320 mg once daily (depending on formulation)
+Glibenclamide;Glibenclamide;Antidiabétique;Sulfamide;2.5-10 mg once or twice daily
+Repaglinide;Repaglinide;Antidiabétique;Glinide;0.5-4 mg before meals
+Nateglinide;Nateglinide;Antidiabétique;Glinide;60-120 mg before meals
+Sitagliptine;Sitagliptine;Antidiabétique;DPP-4 inhibitor;100 mg once daily
+Saxagliptine;Saxagliptine;Antidiabétique;DPP-4 inhibitor;2.5-5 mg once daily
+Vildagliptine;Vildagliptine;Antidiabétique;DPP-4 inhibitor;50 mg twice daily
+Exénatide;Exénatide;Antidiabétique;GLP-1 analog;5-10 μg twice daily or weekly formulations
+Liraglutide;Liraglutide;Antidiabétique;GLP-1 analog;0.6-1.8 mg subcut once daily
+Insuline glargine;Insuline glargine;Antidiabétique;Insuline basale;Once daily, dose individualized
+Insuline asparte;Insuline asparte;Antidiabétique;Insuline rapide;Inject before meals, dose individualized
+Insuline lispro;Insuline lispro;Antidiabétique;Insuline rapide;Inject before meals, dose individualized
+Insuline détémir;Insuline détémir;Antidiabétique;Insuline basale;Once or twice daily, individualized
+Acarbose;Acarbose;Antidiabétique;α-glucosidase inhibitor;50-100 mg with meals
+Paracétamol;Paracétamol;Analgesique;Antalgique;500-1000 mg every 4-6 hours (max 3 g/day typical)
+Ibuprofène;Ibuprofène;AINS;Anti-inflammatoire;200-400 mg every 4-6 hours (max 1200 mg OTC)
+Naproxène;Naproxène;AINS;Anti-inflammatoire;250-500 mg twice daily
+Kétoprofène;Kétoprofène;AINS;Anti-inflammatoire;50-200 mg/day divided
+Tramadol;Tramadol;Analgesique;Opioïde faible;50-100 mg every 4-6 hours (max 400 mg/day)
+Morphine;Morphine;Analgesique;Opioïde fort;Individualized
+Amoxicilline;Amoxicilline;Antibiotique;Pénicilline;500 mg three times daily or 1 g twice daily
+Amoxicilline/clavulanate;Amoxicilline/clavulanate;Antibiotique;Pénicilline + inhibiteur;500/125 mg three times daily or 875/125 mg twice daily
+Céfuroxime axétil;Céfuroxime;Antibiotique;Céphalosporine;250-500 mg twice daily
+Ceftriaxone;Ceftriaxone;Antibiotique;Céphalosporine 3ème gen;1-2 g IV once daily
+Ciprofloxacine;Ciprofloxacine;Antibiotique;Fluoroquinolone;500-750 mg twice daily
+Levofloxacine;Levofloxacine;Antibiotique;Fluoroquinolone;500-750 mg once daily
+Doxycycline;Doxycycline;Antibiotique;Tétracycline;100 mg once or twice daily
+Azithromycine;Azithromycine;Antibiotique;Macrolide;500 mg day 1 then 250 mg daily
+Oméprazole;Oméprazole;Gastro-intestinal;IPP;20-40 mg once daily
+Pantoprazole;Pantoprazole;Gastro-intestinal;IPP;20-40 mg once daily
+Ranitidine;Ranitidine;Gastro-intestinal;Anti-H2;Usual doses historically 150 mg twice daily
+Salbutamol;Salbutamol;Respiratoire;Bronchodilatateur β2;1-2 puffs (100 μg) every 4-6 hours PRN
+Formotérol;Formotérol;Respiratoire;LABA;12 μg twice daily (in inhaler)
+Salmétérol;Salmétérol;Respiratoire;LABA;50 μg twice daily (inhaler)
+Budesonide (inhalé);Budesonide;Respiratoire;Corticostéroïde inhalé;Once or twice daily per inhaler instructions
+Tiotropium;Tiotropium;Respiratoire;Anticholinergique inhalé;Once daily (18 μg dry powder)
+Sertraline;Sertraline;Antidépresseur;SSRI;50-200 mg once daily
+Escitalopram;Escitalopram;Antidépresseur;SSRI;10-20 mg once daily
+Fluoxetine;Fluoxetine;Antidépresseur;SSRI;20-40 mg once daily
+Paroxétine;Paroxétine;Antidépresseur;SSRI;20-40 mg once daily
+Amitriptyline;Amitriptyline;Antidépresseur;Tricyclique;25-150 mg at night or divided
+Valproate de sodium;Valproate;Neurologie;Antiépileptique;500-2000 mg/day divided
+Lamotrigine;Lamotrigine;Neurologie;Antiépileptique;100-400 mg/day
+Carbamazépine;Carbamazépine;Neurologie;Antiépileptique;400-1200 mg/day divided
+Levetiracetam;Levetiracetam;Neurologie;Antiépileptique;500-3000 mg/day divided
+Isotrétinoïne;Isotrétinoïne;Dermatologie;Acné / rétinoïde;0.5-1 mg/kg/day
+Métronidazole topical;Métronidazole;Dermatologie;Topical antibiotic;Apply as directed
+Levothyrox;Levothyroxine;Endocrinologie;Thyroïde;50-200 μg once daily
+Thyroxine (générique);Levothyroxine;Endocrinologie;Thyroïde;Individualized
+Prednisone;Prednisone;Endocrinologie;Corticosteroid systemic;5-60 mg/day depending on indication
+Spiramycin;Spiramycin;Antibiotique;Macrolide;Dose per specialty (e.g., 3 MIU/day)
+Fosfomycine;Fosfomycine;Antibiotique;Urinary;3 g single dose for uncomplicated UTI
+Nitrofurantoïne;Nitrofurantoïne;Antibiotique;Urinary;50-100 mg twice daily
+Triméthoprime/Sulfaméthoxazole;Cotrimoxazole;Antibiotique;Combo;160/800 mg twice daily
+Mupirocine;Mupirocine;Dermatologie;Topical antibiotic;Apply topically 2-3 times daily
+Benzoyl peroxide;Peroxyde de benzoyle;Dermatologie;Topical acne;Apply once daily or as tolerated
+Clarithromycine;Clarithromycine;Antibiotique;Macrolide;250-500 mg twice daily
+Fusidic acid (topical);Acide fusidique;Dermatologie;Topical antibiotic;Apply as directed
+Éthinylestradiol/Levonorgestrel;Contraceptif combiné;Gynécologie;Contraception orale;One tablet daily in cycle
+Implant contraceptif (etonogestrel);Etonogestrel implant;Gynécologie;Contraception;Single implant, effective for years
+Levonorgestrel (stérilet);Levonorgestrel IUD;Gynécologie;Contraception intra-utérine;Release over years
+Vaccin grippe;Vaccin grippe;Vaccin;Vaccination;As per schedule
+Vaccin pneumocoque;Vaccin pneumocoque;Vaccin;Vaccination;As per schedule
+Vaccin HPV;Vaccin HPV;Vaccin;Vaccination;As per schedule
+Vaccin hépatite B;Vaccin hépatite B;Vaccin;Vaccination;As per schedule
+Vaccin Tétanos-diphtérie-coqueluche;Vaccin Tétanos-diphtérie-coqueluche;Vaccin;Vaccination;As per schedule
+Hydrocortisone topical;Hydrocortisone;Dermatologie;Topical corticosteroid;Apply 1-2 times daily
+Betamethasone cream;Betamethasone;Dermatologie;Topical corticosteroid;Apply as directed
+Tamsulosine;Tamsulosine;Urologie;Alpha-blocker;0.4 mg once daily
+Finasteride;Finasteride;Urologie;5-ARI;5 mg once daily
+Loratadine;Loratadine;Allergologie;Antihistaminique;10 mg once daily
+Cetirizine;Cetirizine;Allergologie;Antihistaminique;10 mg once daily
+Onguent ophtalmique (tobramycine);Tobramycine;Ophtalmologie;Antibiotic eye;Apply as directed
+Methotrexate;Methotrexate;Immunosuppresseur/Oncologie;Antimetabolite;7.5-25 mg once weekly (varies)
+Azathioprine;Azathioprine;Immunosuppresseur;Antimetabolite;1-3 mg/kg/day
+ ciclosporine;Cyclosporine;Immunosuppresseur;Calcineurin inhibitor;Dose individualized
+Spironolactone;Spironolactone;Cardiovasculaire;Aldosterone antagonist;25-100 mg once daily
+Eplerenone;Eplerenone;Cardiovasculaire;Aldosterone antagonist;25-50 mg once daily
+Clonidine;Clonidine;Cardiovasculaire;α2 agonist;0.1-0.3 mg twice daily
+Moxonidine;Moxonidine;Cardiovasculaire;Antihypertensive;0.2-0.4 mg once daily
+Atenolol;Atenolol;Cardiovasculaire;Bêta-bloquant;25-100 mg once daily
+Nebivolol;Nebivolol;Cardiovasculaire;Bêta-bloquant;5-10 mg once daily
+Diltiazem;Diltiazem;Cardiovasculaire;Calcium channel blocker;120-360 mg/day depending on formulation
+Verapamil;Verapamil;Cardiovasculaire;Calcium channel blocker;120-480 mg/day
+Isosorbide dinitrate;Isosorbide dinitrate;Cardiovasculaire;Nitrate;5-40 mg two or three times daily
+Isosorbide mononitrate;Isosorbide mononitrate;Cardiovasculaire;Nitrate;30-120 mg once daily
+Clopidogrel + Aspirine (prévention secondaire);Association;Antithrombotique;Double antiagrégation;As per cardiology protocol
+Heparine non fractionnée;HNF;Antithrombotique;Anticoagulant IV/SC;Dose per indication, IV infusion or SC
+Enoxaparine;Enoxaparine;Antithrombotique;HBPM;40 mg once daily (prophylaxis) or 1 mg/kg twice daily
+Dalteparine;Dalteparine;Antithrombotique;HBPM;Dose per weight and indication
+Colchicine;Colchicine;Goutte;Antigout;0.5-1 mg once or twice daily
+Allopurinol;Allopurinol;Goutte;Uricostatic;100-300 mg once daily
+Febuxostat;Febuxostat;Goutte;Xanthine oxidase inhibitor;40-80 mg once daily
+Hydroxychloroquine;Hydroxychloroquine;Immunomodulateur;Antimalarial/rheuma;200-400 mg once daily
+Sulfasalazine;Sulfasalazine;Immunomodulateur;DMARD;500-2000 mg/day divided
+Montelukast;Montelukast;Allergologie;Leukotriene receptor antagonist;10 mg once daily
+Ribavirine;Ribavirine;Antiviral;Antiviral;Dose per protocol
+Oseltamivir;Oseltamivir;Antiviral;Influenza;75 mg twice daily for 5 days
+Valaciclovir;Valaciclovir;Antiviral;Herpes;500-1000 mg 1-3 times daily
+Acyclovir;Acyclovir;Antiviral;Herpes;200-800 mg 3-5 times daily
+Prednisolone;Prednisolone;Endocrinologie;Corticosteroid;Dose individualized (e.g., 5-60 mg)
+Methylprednisolone;Methylprednisolone;Endocrinologie;Corticosteroid;Dose as per indication
+Hydrocortisone oral;Hydrocortisone;Endocrinologie;Corticosteroid;20-30 mg/day divided
+Bisphosphonate (alendronate);Alendronate;Ostéoporose;Bisphosphonate;70 mg once weekly
+Risedronate;Risedronate;Ostéoporose;Bisphosphonate;35 mg once weekly
+Denosumab;Denosumab;Ostéoporose;Monoclonal antibody;60 mg subcut every 6 months
+Calcitriol;Calcitriol;Endocrinologie;Vitamin D analogue;Dose individualized
+Cholecalciferol;Cholecalciferol;Supplement;Vitamin D;800-2000 IU daily typical
+Fer ferreux (sulfate ferreux);Sulfate ferreux;Hématologie;Fer oral;50-200 mg elemental iron/day divided
+Folic acid;Acide folique;Hématologie;Vitamin;0.4-5 mg daily
+Oxazepam;Oxazepam;Anxiolytique;Benzodiazépine;10-30 mg at night or divided
+Lorazepam;Lorazepam;Anxiolytique;Benzodiazépine;1-3 mg divided
+Diazepam;Diazepam;Anxiolytique;Benzodiazépine;2-10 mg two to four times daily
+Clonazepam;Clonazepam;Neurologie;Benzodiazépine;0.5-2 mg/day divided
+Zolpidem;Zolpidem;Sommeil;Hypnotique;10 mg at night (short-term)
+Zopiclone;Zopiclone;Sommeil;Hypnotique;3.75-7.5 mg at night
+Metoclopramide;Metoclopramide;Gastro;Antiemetic;10 mg up to three times daily
+Domperidone;Domperidone;Gastro;Antiemetic;10 mg up to three times daily
+Lansoprazole;Lansoprazole;Gastro;IPP;15-30 mg once daily
+Clarithromycin;Clarithromycine;Antibiotique;Macrolide;250-500 mg twice daily
+Phenoxymethylpenicillin (Benzathine?);Phenoxymethylpenicillin;Antibiotique;Pénicilline;Dose as per indication
+Erythromycin;Erythromycine;Antibiotique;Macrolide;400-800 mg/day divided
+Rifampicine;Rifampicine;Antituberculeux;Antibiotique;600 mg once daily
+Isoniazid;Isoniazid;Antituberculeux;Antibiotique;300 mg once daily
+Metronidazole;Metronidazole;Divers;Générique;Dose as per indication
+Hydroxyzine;Hydroxyzine;Divers;Générique;Dose as per indication
+Promethazine;Promethazine;Divers;Générique;Dose as per indication
+Gabapentin;Gabapentin;Divers;Générique;Dose as per indication
+Pregabalin;Pregabalin;Divers;Générique;Dose as per indication
+Topiramate;Topiramate;Divers;Générique;Dose as per indication
+Oxcarbazepine;Oxcarbazepine;Divers;Générique;Dose as per indication
+Phenobarbital;Phenobarbital;Divers;Générique;Dose as per indication
+Sumatriptan;Sumatriptan;Divers;Générique;Dose as per indication
+Eletriptan;Eletriptan;Divers;Générique;Dose as per indication
+Naloxone;Naloxone;Divers;Générique;Dose as per indication
+Buprenorphine;Buprenorphine;Divers;Générique;Dose as per indication
+Methadone;Methadone;Divers;Générique;Dose as per indication
+Bupropion;Bupropion;Divers;Générique;Dose as per indication
+Mirtazapine;Mirtazapine;Divers;Générique;Dose as per indication
+Trazodone;Trazodone;Divers;Générique;Dose as per indication
+Venlafaxine;Venlafaxine;Divers;Générique;Dose as per indication
+Duloxetine;Duloxetine;Divers;Générique;Dose as per indication
+Moclobemide;Moclobemide;Divers;Générique;Dose as per indication
+Sulpiride;Sulpiride;Divers;Générique;Dose as per indication
+Risperidone;Risperidone;Divers;Générique;Dose as per indication
+Olanzapine;Olanzapine;Divers;Générique;Dose as per indication
+Quetiapine;Quetiapine;Divers;Générique;Dose as per indication
+Haloperidol;Haloperidol;Divers;Générique;Dose as per indication
+Lithium carbonate;Lithium carbonate;Divers;Générique;Dose as per indication
+Donepezil;Donepezil;Divers;Générique;Dose as per indication
+Memantine;Memantine;Divers;Générique;Dose as per indication
+Rivastigmine;Rivastigmine;Divers;Générique;Dose as per indication
+Baclofen;Baclofen;Divers;Générique;Dose as per indication
+Tizanidine;Tizanidine;Divers;Générique;Dose as per indication
+Cyclobenzaprine;Cyclobenzaprine;Divers;Générique;Dose as per indication
+Dantrolene;Dantrolene;Divers;Générique;Dose as per indication
+Benztropine;Benztropine;Divers;Générique;Dose as per indication
+Trihexyphenidyl;Trihexyphenidyl;Divers;Générique;Dose as per indication
+Levodopa/carbidopa;Levodopa/carbidopa;Divers;Générique;Dose as per indication
+Carbidopa/Levodopa;Carbidopa/Levodopa;Divers;Générique;Dose as per indication
+Entacapone;Entacapone;Divers;Générique;Dose as per indication
+Tolcapone;Tolcapone;Divers;Générique;Dose as per indication
+Selegiline;Selegiline;Divers;Générique;Dose as per indication
+Rasagiline;Rasagiline;Divers;Générique;Dose as per indication
+Nitrofurantoin;Nitrofurantoin;Divers;Générique;Dose as per indication
+Phenazopyridine;Phenazopyridine;Divers;Générique;Dose as per indication
+Sulfamethoxazole;Sulfamethoxazole;Divers;Générique;Dose as per indication
+Metamizole;Metamizole;Divers;Générique;Dose as per indication
+Dipyrone;Dipyrone;Divers;Générique;Dose as per indication
+Hydromorphone;Hydromorphone;Divers;Générique;Dose as per indication
+Oxycodone;Oxycodone;Divers;Générique;Dose as per indication
+Fentanyl patch;Fentanyl patch;Divers;Générique;Dose as per indication
+Buprenorphine patch;Buprenorphine patch;Divers;Générique;Dose as per indication
+Codeine phosphate;Codeine phosphate;Divers;Générique;Dose as per indication
+Dextromethorphan;Dextromethorphan;Divers;Générique;Dose as per indication
+Guaifenesin;Guaifenesin;Divers;Générique;Dose as per indication
+Doxazosin;Doxazosin;Divers;Générique;Dose as per indication
+Prazosin;Prazosin;Divers;Générique;Dose as per indication
+Terazosin;Terazosin;Divers;Générique;Dose as per indication
+Tolvaptan;Tolvaptan;Divers;Générique;Dose as per indication
+Conivaptan;Conivaptan;Divers;Générique;Dose as per indication
+Desmopressin;Desmopressin;Divers;Générique;Dose as per indication
+Oxytocin;Oxytocin;Divers;Générique;Dose as per indication
+Misoprostol;Misoprostol;Divers;Générique;Dose as per indication
+Mifepristone;Mifepristone;Divers;Générique;Dose as per indication
+Acyclovir topical;Acyclovir topical;Divers;Générique/Spécialité;Dose as per indication
+Aliskiren;Aliskiren;Divers;Générique/Spécialité;Dose as per indication
+Amiloride;Amiloride;Divers;Générique/Spécialité;Dose as per indication
+Benazepril;Benazepril;Divers;Générique/Spécialité;Dose as per indication
+Captopril;Captopril;Divers;Générique/Spécialité;Dose as per indication
+Cilazapril;Cilazapril;Divers;Générique/Spécialité;Dose as per indication
+Lercanidipine;Lercanidipine;Divers;Générique/Spécialité;Dose as per indication
+Felodipine;Felodipine;Divers;Générique/Spécialité;Dose as per indication
+Nicardipine;Nicardipine;Divers;Générique/Spécialité;Dose as per indication
+Clevidipine;Clevidipine;Divers;Générique/Spécialité;Dose as per indication
+Verapamil SR;Verapamil SR;Divers;Générique/Spécialité;Dose as per indication
+Isradipine;Isradipine;Divers;Générique/Spécialité;Dose as per indication
+Perindopril;Perindopril;Divers;Générique/Spécialité;Dose as per indication
+Trandolapril;Trandolapril;Divers;Générique/Spécialité;Dose as per indication
+Molsidomine;Molsidomine;Divers;Générique/Spécialité;Dose as per indication
+Ivabradine;Ivabradine;Divers;Générique/Spécialité;Dose as per indication
+Carvedilol;Carvedilol;Divers;Générique/Spécialité;Dose as per indication
+Sotalol;Sotalol;Divers;Générique/Spécialité;Dose as per indication
+Acebutolol;Acebutolol;Divers;Générique/Spécialité;Dose as per indication
+Pindolol;Pindolol;Divers;Générique/Spécialité;Dose as per indication
+Ranolazine;Ranolazine;Divers;Générique/Spécialité;Dose as per indication
+Dapagliflozin;Dapagliflozin;Divers;Générique/Spécialité;Dose as per indication
+Canagliflozin;Canagliflozin;Divers;Générique/Spécialité;Dose as per indication
+Empagliflozin;Empagliflozin;Divers;Générique/Spécialité;Dose as per indication
+Ipragliflozin;Ipragliflozin;Divers;Générique/Spécialité;Dose as per indication
+Ertugliflozin;Ertugliflozin;Divers;Générique/Spécialité;Dose as per indication
+Pioglitazone;Pioglitazone;Divers;Générique/Spécialité;Dose as per indication
+Rosiglitazone;Rosiglitazone;Divers;Générique/Spécialité;Dose as per indication
+Miglitol;Miglitol;Divers;Générique/Spécialité;Dose as per indication
+Voglibose;Voglibose;Divers;Générique/Spécialité;Dose as per indication
+Insuline lente (NPH);Insuline lente (NPH);Divers;Générique/Spécialité;Dose as per indication
+Insuline mixte 30/70;Insuline mixte 30/70;Divers;Générique/Spécialité;Dose as per indication
+Insuline inhalée;Insuline inhalée;Divers;Générique/Spécialité;Dose as per indication
+Pramlintide;Pramlintide;Divers;Générique/Spécialité;Dose as per indication
+Glucagon;Glucagon;Divers;Générique/Spécialité;Dose as per indication
+Saxagliptine/metformin combo;Saxagliptine/metformin combo;Divers;Générique/Spécialité;Dose as per indication
+Linagliptine;Linagliptine;Divers;Générique/Spécialité;Dose as per indication
+Alogliptine;Alogliptine;Divers;Générique/Spécialité;Dose as per indication
+Bromocriptine;Bromocriptine;Divers;Générique/Spécialité;Dose as per indication
+Cabergoline;Cabergoline;Divers;Générique/Spécialité;Dose as per indication
+Dulaglutide;Dulaglutide;Divers;Générique/Spécialité;Dose as per indication
+Semaglutide;Semaglutide;Divers;Générique/Spécialité;Dose as per indication
+Albiglutide;Albiglutide;Divers;Générique/Spécialité;Dose as per indication
+Exenatide LAR;Exenatide LAR;Divers;Générique/Spécialité;Dose as per indication
+SGLT2 inhibitor unspecified;SGLT2 inhibitor unspecified;Divers;Générique/Spécialité;Dose as per indication
+Benzbromarone;Benzbromarone;Divers;Générique/Spécialité;Dose as per indication
+Pegloticase;Pegloticase;Divers;Générique/Spécialité;Dose as per indication
+Sevelamer;Sevelamer;Divers;Générique/Spécialité;Dose as per indication
+Lanreotide;Lanreotide;Divers;Générique/Spécialité;Dose as per indication
+Octreotide;Octreotide;Divers;Générique/Spécialité;Dose as per indication
+Pasireotide;Pasireotide;Divers;Générique/Spécialité;Dose as per indication
+Sodium polystyrene sulfonate;Sodium polystyrene sulfonate;Divers;Générique/Spécialité;Dose as per indication
+Erythropoietin;Erythropoietin;Divers;Générique/Spécialité;Dose as per indication
+Darbepoetin;Darbepoetin;Divers;Générique/Spécialité;Dose as per indication
+Iron sucrose IV;Iron sucrose IV;Divers;Générique/Spécialité;Dose as per indication
+Ferric carboxymaltose;Ferric carboxymaltose;Divers;Générique/Spécialité;Dose as per indication
+Eltrombopag;Eltrombopag;Divers;Générique/Spécialité;Dose as per indication
+Romiplostim;Romiplostim;Divers;Générique/Spécialité;Dose as per indication
+Voriconazole;Voriconazole;Divers;Générique/Spécialité;Dose as per indication
+Fluconazole;Fluconazole;Divers;Générique/Spécialité;Dose as per indication
+Itraconazole;Itraconazole;Divers;Générique/Spécialité;Dose as per indication
+Posaconazole;Posaconazole;Divers;Générique/Spécialité;Dose as per indication
+Griseofulvine;Griseofulvine;Divers;Générique/Spécialité;Dose as per indication
+Terbinafine;Terbinafine;Divers;Générique/Spécialité;Dose as per indication
+Clotrimazole;Clotrimazole;Divers;Générique/Spécialité;Dose as per indication
+Miconazole;Miconazole;Divers;Générique/Spécialité;Dose as per indication
+Ketoconazole topical;Ketoconazole topical;Divers;Générique/Spécialité;Dose as per indication
+Nystatin;Nystatin;Divers;Générique/Spécialité;Dose as per indication
+Amphotericin B;Amphotericin B;Divers;Générique/Spécialité;Dose as per indication
+Foscarnet;Foscarnet;Divers;Générique/Spécialité;Dose as per indication
+Cidofovir;Cidofovir;Divers;Générique/Spécialité;Dose as per indication
+Valganciclovir;Valganciclovir;Divers;Générique/Spécialité;Dose as per indication
+Ganciclovir;Ganciclovir;Divers;Générique/Spécialité;Dose as per indication
+Palivizumab;Palivizumab;Divers;Générique/Spécialité;Dose as per indication
+Ritonavir;Ritonavir;Divers;Générique/Spécialité;Dose as per indication
+Lopinavir/ritonavir;Lopinavir/ritonavir;Divers;Générique/Spécialité;Dose as per indication
+Darunavir;Darunavir;Divers;Générique/Spécialité;Dose as per indication
+Atazanavir;Atazanavir;Divers;Générique/Spécialité;Dose as per indication
+Dolutegravir;Dolutegravir;Divers;Générique/Spécialité;Dose as per indication
+Raltegravir;Raltegravir;Divers;Générique/Spécialité;Dose as per indication
+Elvitegravir;Elvitegravir;Divers;Générique/Spécialité;Dose as per indication
+Bictegravir;Bictegravir;Divers;Générique/Spécialité;Dose as per indication
+Tenofovir disoproxil;Tenofovir disoproxil;Divers;Générique/Spécialité;Dose as per indication
+Tenofovir alafenamide;Tenofovir alafenamide;Divers;Générique/Spécialité;Dose as per indication
+Lamivudine;Lamivudine;Divers;Générique/Spécialité;Dose as per indication
+Emtricitabine;Emtricitabine;Divers;Générique/Spécialité;Dose as per indication
+Zidovudine;Zidovudine;Divers;Générique/Spécialité;Dose as per indication
+Didanosine;Didanosine;Divers;Générique/Spécialité;Dose as per indication
+Stavudine;Stavudine;Divers;Générique/Spécialité;Dose as per indication
+Efavirenz;Efavirenz;Divers;Générique/Spécialité;Dose as per indication
+Nevirapine;Nevirapine;Divers;Générique/Spécialité;Dose as per indication
+Etravirine;Etravirine;Divers;Générique/Spécialité;Dose as per indication
+Maraviroc;Maraviroc;Divers;Générique/Spécialité;Dose as per indication
+Ibalizumab;Ibalizumab;Divers;Générique/Spécialité;Dose as per indication
+Cabotegravir;Cabotegravir;Divers;Générique/Spécialité;Dose as per indication
+Ivermectin;Ivermectin;Divers;Générique/Spécialité;Dose as per indication
+Albendazole;Albendazole;Divers;Générique/Spécialité;Dose as per indication
+Mebendazole;Mebendazole;Divers;Générique/Spécialité;Dose as per indication
+Praziquantel;Praziquantel;Divers;Générique/Spécialité;Dose as per indication
+Pyrantel pamoate;Pyrantel pamoate;Divers;Générique/Spécialité;Dose as per indication
+Permethrin;Permethrin;Divers;Générique/Spécialité;Dose as per indication
+Lindane;Lindane;Divers;Générique/Spécialité;Dose as per indication
+Malathion;Malathion;Divers;Générique/Spécialité;Dose as per indication
+Niclosamide;Niclosamide;Divers;Générique/Spécialité;Dose as per indication
+Levocetirizine;Levocetirizine;Divers;Générique/Spécialité;Dose as per indication
+Rupatadine;Rupatadine;Divers;Générique/Spécialité;Dose as per indication
+Desloratadine;Desloratadine;Divers;Générique/Spécialité;Dose as per indication
+Bilastine;Bilastine;Divers;Générique/Spécialité;Dose as per indication
+Promethazine oral;Promethazine oral;Divers;Générique/Spécialité;Dose as per indication
+Omalizumab;Omalizumab;Divers;Générique/Spécialité;Dose as per indication
+Dupilumab;Dupilumab;Divers;Générique/Spécialité;Dose as per indication
+Mepolizumab;Mepolizumab;Divers;Générique/Spécialité;Dose as per indication
+Benralizumab;Benralizumab;Divers;Générique/Spécialité;Dose as per indication
+Reslizumab;Reslizumab;Divers;Générique/Spécialité;Dose as per indication
+Tocilizumab;Tocilizumab;Divers;Générique/Spécialité;Dose as per indication
+Adalimumab;Adalimumab;Divers;Générique/Spécialité;Dose as per indication
+Infliximab;Infliximab;Divers;Générique/Spécialité;Dose as per indication
+Etanercept;Etanercept;Divers;Générique/Spécialité;Dose as per indication
+Certolizumab;Certolizumab;Divers;Générique/Spécialité;Dose as per indication
+Golimumab;Golimumab;Divers;Générique/Spécialité;Dose as per indication
+Ustekinumab;Ustekinumab;Divers;Générique/Spécialité;Dose as per indication
+Secukinumab;Secukinumab;Divers;Générique/Spécialité;Dose as per indication
+Ixekizumab;Ixekizumab;Divers;Générique/Spécialité;Dose as per indication
+Abatacept;Abatacept;Divers;Générique/Spécialité;Dose as per indication
+Belimumab;Belimumab;Divers;Générique/Spécialité;Dose as per indication
+Rituximab;Rituximab;Divers;Générique/Spécialité;Dose as per indication
+Bendamustine;Bendamustine;Divers;Générique/Spécialité;Dose as per indication
+Cisplatin;Cisplatin;Divers;Générique/Spécialité;Dose as per indication
+Carboplatin;Carboplatin;Divers;Générique/Spécialité;Dose as per indication
+Oxaliplatin;Oxaliplatin;Divers;Générique/Spécialité;Dose as per indication
+Doxorubicin;Doxorubicin;Divers;Générique/Spécialité;Dose as per indication
+Epirubicin;Epirubicin;Divers;Générique/Spécialité;Dose as per indication
+Cyclophosphamide;Cyclophosphamide;Divers;Générique/Spécialité;Dose as per indication
+Ifosfamide;Ifosfamide;Divers;Générique/Spécialité;Dose as per indication
+Vincristine;Vincristine;Divers;Générique/Spécialité;Dose as per indication
+Vinblastine;Vinblastine;Divers;Générique/Spécialité;Dose as per indication
+Paclitaxel;Paclitaxel;Divers;Générique/Spécialité;Dose as per indication
+Docetaxel;Docetaxel;Divers;Générique/Spécialité;Dose as per indication
+Gemcitabine;Gemcitabine;Divers;Générique/Spécialité;Dose as per indication
+Capecitabine;Capecitabine;Divers;Générique/Spécialité;Dose as per indication
+5-Fluorouracil;5-Fluorouracil;Divers;Générique/Spécialité;Dose as per indication
+Irinotecan;Irinotecan;Divers;Générique/Spécialité;Dose as per indication
+Topotecan;Topotecan;Divers;Générique/Spécialité;Dose as per indication
+Trastuzumab;Trastuzumab;Divers;Générique/Spécialité;Dose as per indication
+Pertuzumab;Pertuzumab;Divers;Générique/Spécialité;Dose as per indication
+Bevacizumab;Bevacizumab;Divers;Générique/Spécialité;Dose as per indication
+Cetuximab;Cetuximab;Divers;Générique/Spécialité;Dose as per indication
+Panitumumab;Panitumumab;Divers;Générique/Spécialité;Dose as per indication
+Imatinib;Imatinib;Divers;Générique/Spécialité;Dose as per indication
+Dasatinib;Dasatinib;Divers;Générique/Spécialité;Dose as per indication
+Nilotinib;Nilotinib;Divers;Générique/Spécialité;Dose as per indication
+Erlotinib;Erlotinib;Divers;Générique/Spécialité;Dose as per indication
+Gefitinib;Gefitinib;Divers;Générique/Spécialité;Dose as per indication
+Sunitinib;Sunitinib;Divers;Générique/Spécialité;Dose as per indication
+Sorafenib;Sorafenib;Divers;Générique/Spécialité;Dose as per indication
+Pazopanib;Pazopanib;Divers;Générique/Spécialité;Dose as per indication
+Regorafenib;Regorafenib;Divers;Générique/Spécialité;Dose as per indication
+Lenvatinib;Lenvatinib;Divers;Générique/Spécialité;Dose as per indication
+Ruxolitinib;Ruxolitinib;Divers;Générique/Spécialité;Dose as per indication
+Tofacitinib;Tofacitinib;Divers;Générique/Spécialité;Dose as per indication

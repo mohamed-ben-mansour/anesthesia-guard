@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+torch
+faiss-cpu
+sentence-transformers
+easyocr
+opencv-python
+scikit-learn
+rapidfuzz
+ctransformers
