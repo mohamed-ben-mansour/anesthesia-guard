@@ -182,4 +182,4 @@ async def get_protocol(req: RAGRequest):
     return {"protocol": natural_answer, "riskLevel": risk}
 
 if __name__ == "__main__":
-    uvicorn.run(app, port=8000)
+    uvicorn.run(app, port=8050)
